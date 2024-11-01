@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cool-poll\n"
+"POT-Creation-Date: 2020-04-14 15:04+0200\n"
+"PO-Revision-Date: 2020-04-14 15:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: cool-poll.php\n"
+"X-Poedit-SearchPath-1: poll_add.php\n"
+"X-Poedit-SearchPath-2: poll_edit.php\n"
+
+#: cool-poll.php:21
+msgid "Widget to display selected poll."
+msgstr "Widget pro zobrazení vybrané ankety."
+
+#: cool-poll.php:112
+msgid "Total Votes: "
+msgstr "Hlasů celkově: "
+
+#: cool-poll.php:136
+msgid "Poll:"
+msgstr "Anketa:"
+
+#: cool-poll.php:275
+#, fuzzy
+#| msgid "Prev"
+msgid "Previous"
+msgstr "Předchozí"
+
+#: cool-poll.php:275
+msgid "Next"
+msgstr "Další"
+
+#: cool-poll.php:348
+msgid "Edit"
+msgstr "Editovat"
+
+#: cool-poll.php:348
+msgid "Delete"
+msgstr "Smazat"
+
+#: cool-poll.php:405 cool-poll.php:562
+msgid "No records found"
+msgstr "Nenalezeny žádné záznamy"
+
+#: cool-poll.php:504
+msgid "Poll Report"
+msgstr "Report"
+
+#: cool-poll.php:545
+msgid "Answer"
+msgstr "Odpověď"
+
+#: cool-poll.php:546
+msgid "IP"
+msgstr "IP"
+
+#: cool-poll.php:547
+msgid "Date"
+msgstr "Datum"
+
+#: cool-poll.php:588
+msgid "Polls"
+msgstr "Ankety"
+
+#: cool-poll.php:588
+msgid "Add New Poll"
+msgstr "Přidat anketu"
+
+#: cool-poll.php:597
+msgid "Showing "
+msgstr "Zobrazeno "
+
+#: cool-poll.php:597
+msgid " of total "
+msgstr " z celkově "
+
+#: cool-poll.php:597
+msgid " polls."
+msgstr " anket."
+
+#: cool-poll.php:598
+msgid "Showing filtered polls."
+msgstr "Zobrazovány filtrované ankety."
+
+#: cool-poll.php:605
+msgid "Poll"
+msgstr "Anketa"
+
+#: cool-poll.php:608 poll_add.php:14 poll_edit.php:15
+msgid "Author"
+msgstr "Autor"
+
+#: cool-poll.php:611 poll_add.php:19 poll_edit.php:20
+msgid "Status"
+msgstr "Status"
+
+#: cool-poll.php:614
+msgid "Action"
+msgstr "Akce"
+
+#: poll_add.php:7
+msgid "Poll Add"
+msgstr "Přidat anketu"
+
+#: poll_add.php:10 poll_edit.php:11
+msgid "Poll Question"
+msgstr "Anketní otázka"
+
+#: poll_add.php:23 poll_edit.php:26
+msgid "Poll Answers"
+msgstr "Anketní odpovědi"
+
+#: poll_add.php:33
+msgid "Add Answer"
+msgstr "Přidat odpověď"
+
+#: poll_add.php:36 poll_edit.php:57
+msgid "Poll Visualisation"
+msgstr "Vizualizace ankety"
+
+#: poll_add.php:59 poll_edit.php:98
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: poll_add.php:64 poll_edit.php:103
+msgid "Use template background color"
+msgstr "Použít barvu pozadí šablony"
+
+#: poll_add.php:69 poll_edit.php:117
+msgid "Submit"
+msgstr "Odeslat"
+
+#: poll_edit.php:7
+#, fuzzy
+#| msgid "Data successfully updated."
+msgid "Poll succesfully updated."
+msgstr "Data úspěšně aktualizována."
+
+#: poll_edit.php:8
+msgid "Poll Edit"
+msgstr "Editace ankety"
+
+#: poll_edit.php:22
+msgid "Save"
+msgstr "Uložit"
+
+#: poll_edit.php:27
+msgid "Add More Answers"
+msgstr "Přidat odpovědi"
+
+#: poll_edit.php:110
+msgid "Poll is activated, only status can be updated now!"
+msgstr "Anketa je aktivována, pouze status může být nyní aktualizován!"
+
+#: poll_edit.php:113
+msgid "Poll is stopped, so can not be updated now!"
+msgstr "Anketa je zastavena, takže nemůže být aktualizována!"
+
+#~ msgid "Poll is empty!"
+#~ msgstr "Anketa je prázdná!"

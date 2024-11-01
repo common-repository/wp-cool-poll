@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cool-poll\n"
+"POT-Creation-Date: 2020-03-18 16:00+0100\n"
+"PO-Revision-Date: 2020-03-19 12:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: cool-poll.php\n"
+"X-Poedit-SearchPath-1: poll_add.php\n"
+"X-Poedit-SearchPath-2: poll_edit.php\n"
+
+#: cool-poll.php:17
+msgid "Widget to display selected poll."
+msgstr ""
+
+#: cool-poll.php:133
+msgid "Poll:"
+msgstr ""
+
+#: cool-poll.php:279
+msgid "Prev"
+msgstr ""
+
+#: cool-poll.php:280
+msgid "Next"
+msgstr ""
+
+#: cool-poll.php:346
+msgid "Data successfully updated."
+msgstr ""
+
+#: cool-poll.php:507 cool-poll.php:666
+msgid "No records found"
+msgstr ""
+
+#: cool-poll.php:606
+msgid "Poll Report"
+msgstr "Report"
+
+#: cool-poll.php:647
+msgid "Answer"
+msgstr "Odpověď"
+
+#: cool-poll.php:649
+msgid "IP"
+msgstr ""
+
+#: cool-poll.php:650
+msgid "Date"
+msgstr "Datum"
+
+#: cool-poll.php:692
+msgid "Polls"
+msgstr "Ankety"
+
+#: cool-poll.php:692
+msgid "Add New Poll"
+msgstr ""
+
+#: cool-poll.php:711
+msgid "Poll"
+msgstr ""
+
+#: cool-poll.php:714 poll_add.php:14 poll_edit.php:14
+msgid "Author"
+msgstr ""
+
+#: cool-poll.php:717 poll_add.php:19 poll_edit.php:19
+msgid "Status"
+msgstr ""
+
+#: cool-poll.php:720
+msgid "Action"
+msgstr ""
+
+#: cool-poll.php:1062
+msgid "Poll is empty!"
+msgstr ""
+
+#: poll_add.php:7
+msgid "Poll Add"
+msgstr ""
+
+#: poll_add.php:10 poll_edit.php:10
+msgid "Poll Question"
+msgstr ""
+
+#: poll_add.php:23 poll_edit.php:25
+msgid "Poll Answers"
+msgstr ""
+
+#: poll_add.php:33
+msgid "Add Answer"
+msgstr ""
+
+#: poll_add.php:36 poll_edit.php:56
+msgid "Poll Visualisation"
+msgstr ""
+
+#: poll_add.php:59 poll_edit.php:97
+msgid "Background color"
+msgstr ""
+
+#: poll_add.php:64 poll_edit.php:102
+msgid "Use template background color"
+msgstr ""
+
+#: poll_add.php:69 poll_edit.php:116
+msgid "Submit"
+msgstr ""
+
+#: poll_edit.php:7
+msgid "Poll Edit"
+msgstr ""
+
+#: poll_edit.php:21
+msgid "Save"
+msgstr ""
+
+#: poll_edit.php:26
+msgid "Add More Answers"
+msgstr ""
+
+#: poll_edit.php:109
+msgid "Poll is activated, only status can be updated now!"
+msgstr ""
+
+#: poll_edit.php:112
+msgid "Poll is stopped, so can not be updated now!"
+msgstr ""
